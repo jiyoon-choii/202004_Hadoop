@@ -1,0 +1,10 @@
+서버 세팅
+
+오라클 버튜얼 머신 - 새로 만들기) 이름 : ubuntu
+	- 메모리 크기 : 4096 -- 파일 위치 및 크기 : 30.00 GB 
+		- 설정) 네트워크) -다음에 연결됨 : 어댑터에 브리지 - 무작위 모드 : 가상 머신에 허용 : 새로운 IP 생성 
+			- 저장소) 씨디 추가 모양 - ubuntu zip (.iso) 파일
+
+- 아이피 확인 : cotrol+alt+t : ifconfig  
+
+*참고 : http://ihongss.com/webboard/editor?mode=v
